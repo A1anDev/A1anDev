@@ -12,7 +12,7 @@ infrastructure from the perspective of the services that actually run on it.
 - 🌱 Background in backend development (Java, Spring Boot) before moving into DevOps
 - 🎓 Studying Ingeniería Informática at Universidad Alejandro de Humboldt
 - 📍 Based in Caracas, Venezuela
-- 📫 Reach me at tu-email@ejemplo.com
+- 📫 Reach me at trasvenalan@gmail.com
 
 ---
 
@@ -29,11 +29,6 @@ infrastructure from the perspective of the services that actually run on it.
 | **SpendSmart** *(coming soon)* | Full-stack personal finance tracker — expenses, budgets, and spending insights |
 
 ---
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=A1anDev&show_icons=true&theme=tokyonight&hide_border=true" alt="Alan's GitHub stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=A1anDev&theme=tokyonight&hide_border=true" alt="Alan's GitHub streak" height="165" />
 
 ### 🔗 Connect
 
