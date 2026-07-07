@@ -25,8 +25,8 @@ infrastructure from the perspective of the services that actually run on it.
 | Project | Description |
 |---|---|
 | [**PipelineWatch**](https://github.com/A1anDev/pipelinewatch) | Centralized CI/CD monitoring dashboard for multi-client Kubernetes infrastructure — live pipeline status, DORA metrics, and a TV/wallboard mode |
-| **A1AN-LOGS** *(coming soon)* | Internal log search platform for Kubernetes, with cross-service trace-id correlation |
-| **SpendSmart** *(coming soon)* | Full-stack personal finance tracker — expenses, budgets, and spending insights |
+| [**A1AN-LOGS**](https://github.com/A1anDev/a1an-logs) | Internal log search platform for Kubernetes, with cross-service trace-id correlation |
+| [**SpendSmart**](https://github.com/A1anDev/spendsmart) | Full-stack personal finance tracker — expenses, budgets, and spending insights |
 
 ---
 
