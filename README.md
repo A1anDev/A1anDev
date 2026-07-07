@@ -11,7 +11,8 @@ infrastructure from the perspective of the services that actually run on it.
 - 🛠️ Building **PipelineWatch**, a centralized CI/CD monitoring dashboard with DORA metrics and a TV/wallboard mode
 - 🌱 Background in backend development (Java, Spring Boot) before moving into DevOps
 - 🎓 Studying Ingeniería Informática at Universidad Alejandro de Humboldt
-- 📍 Based in Caracas, Venezuela
+- 🌎 Living in Caracas, Venezuela
+- 💼 Currently working at Graca Consultores
 - 📫 Reach me at trasvenalan@gmail.com
 
 ---
